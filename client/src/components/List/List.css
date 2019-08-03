@@ -1,10 +1,22 @@
-
+body{
+  background-color: black;
+}
 .list-overflow-container {
   border-bottom: 1px darkgray solid;
   border-top: 1px darkgray solid;
   border-radius: 4px;
 }
-
+.btn-info{
+  background-color: rgb(1, 1, 85);
+  border-radius: 12px;
+  text-align: center;
+}
+label{
+  color: white;
+}
+h2{
+  color: white; 
+}
 .list-overflow-container ul {
   margin: 0;
 }
